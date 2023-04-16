@@ -1,0 +1,32 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html {
+  background-color:lightblue
+}
+
+.container {
+	width: 300px;
+	height: 400px;
+	border: 1px solid red;
+	margin: 100px auto;
+	border-radius: 10px;
+  background-color: rgb(255, 249, 249)
+}
+
+.qr-code {
+  width: 100%;
+  border: 1px solid green;
+  display: flex;
+  justify-content: center;
+}
+
+img {
+	width: 200px;
+	height: 200px;
+	border-radius: 10px;
+}
+
